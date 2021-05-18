@@ -1,0 +1,8 @@
+#+TITLE: Personal Blog
+
+
+
+
+* This is a personal blog 
+  + made using github pages
+  + currently riddeled with cobwebs and dust <coughs.jpg> 
