@@ -1,0 +1,6 @@
+#+TITLE: nishadhsingh.github.io(self.blog())
+
+
+* This is a personal blog 
+  + made using github pages,[[Hugo][https://gohugo.io/About/]]
+  + currently riddeled with cobwebs and dust <coughs.jpg> 
