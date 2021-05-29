@@ -2,5 +2,5 @@
 
 
 * This is a personal blog 
-  + made using github pages,[[Hugo][https://gohugo.io/About/]]
+  + made using [[https://pages.github.com/][github pages]] and [[https://gohugo.io/About/][Hugo]]
   + currently riddeled with cobwebs and dust <coughs.jpg> 
