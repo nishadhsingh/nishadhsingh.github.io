@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogging Time</title>
+    <link>https://nishadhsingh.github.io/</link>
+    <description>Recent content on Blogging Time</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 May 2021 15:00:41 +0530</lastBuildDate><atom:link href="https://nishadhsingh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://nishadhsingh.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 29 May 2021 15:00:41 +0530</pubDate>
+      
+      <guid>https://nishadhsingh.github.io/posts/my-first-post/</guid>
+      <description>it&amp;rsquo;s aliiive (`0´)/</description>
+    </item>
+    
+  </channel>
+</rss>
